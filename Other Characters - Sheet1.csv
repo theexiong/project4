@@ -1,0 +1,16 @@
+character name,age,height(cm),eyeColor,hairColor,specialPowers,country/placeOfResidence,gender,species,movie,releaseDate
+Aang,112,137,grey,bald,1,Avatar,Male,Airbender,Avatar The Last Airbender,2005
+Katara,14,144.5,blue,brown,1,Avatar,Female,Waterbender,Avatar The Last Airbender,2005
+Sokka,15,150,blue,brown,1,Avatar,Male,Waterbender,Avatar The Last Airbender,2005
+Toph,12,130,green,dark brown,1,Avatar,Female,Earthbender,Avatar The Last Airbender,2005
+Tanjiro,15,165,red,dark brown,1,Japan,Male,Human,Demon Slayer,2021
+Nezuko,12,152,pink,dark brown,1,Japan,Female,Demon,Demon Slayer,2021
+Zenitsu,16,164.5,brown,yellow,1,Japan,Male,Human,Demon Slayer,2021
+Inosuke,15,165,green,blue black,1,Japan,Male,Human,Demon Slayer,2021
+Muzan,1000,179,red,black,1,Japan,Male,Demon,Demon Slayer,2021
+Kokushibou,480,190,yellow,reddish brown,1,Japan,Male,Demon,Demon Slayer,2021
+Ash Ketchum,10,165,black,black,0,Japan,Male,Human,Pokemon the Movie: I Choose You,1998
+Yuta Okkotsu,17,175,brown,black,1,Japan,Male,Human,Jujutsu Kaisen 0,2021
+Gojo Satoru,28,190,blue,white,1,Japan,Male,Human,Jujutsu Kaisen 0,2021
+Geto Suguru,27,190,brown,black,1,Japan,Male,Human,Jujutsu Kaisen 0,2021
+Usagi Tsukino,14,155,blue,blonde,1,Japan,Female,Human,Sailor Moon S,2000
