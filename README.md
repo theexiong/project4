@@ -33,8 +33,8 @@ A Standard Scaler was created and fitted to the X_training and X_testing dataset
 
 
 
-sources: 
-https://github.com/Laboratoria/CDMX011-data-lovers/blob/master/src/data/ghibli/ghibli.json 
-https://disney.fandom.com/wiki/Category:Studio_Ghibli_films 
-https://ghibli.fandom.com/wiki/Studio_Ghibli 
-https://www.kaggle.com/datasets/marshuu/ghibli-characters
+sources:</br>
+https://github.com/Laboratoria/CDMX011-data-lovers/blob/master/src/data/ghibli/ghibli.json</br>
+https://disney.fandom.com/wiki/Category:Studio_Ghibli_films</br>
+https://ghibli.fandom.com/wiki/Studio_Ghibli</br>
+https://www.kaggle.com/datasets/marshuu/ghibli-characters</br>
