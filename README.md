@@ -1,10 +1,10 @@
 # project4
 
-Studio Ghibli Neural Network Model
+<b>Studio Ghibli Neural Network Model</b>
 
 For this project, we were tasked with creating a machine learning model to either predict or classify data. Using Studio Ghibli characters, I had originally wanted to create a model that would predict what species a character was depending on their characteristics.
 
-Gathering Data
+<b>Gathering Data</b>
 
 To gather data, I used the sources listed below to create a csv file that comprised of each character's:
 1. Name
@@ -19,7 +19,7 @@ To gather data, I used the sources listed below to create a csv file that compri
 10. Movie Character is in
 11. Movie Release Date
 
-<b>Preprocessing<b>
+<b>Preprocessing</b>
 
 Using sqlite, I queried all the different types of species and their counts. This showed that there was not enough other species types to go with my original plan. So, my backup plan was to predict if a character was Human or Non-Human depending on their characteristics. I also queried the amount of Male versus Female characters, characters that had the same eye and hair colors, and the number of characters in a movie.
 
@@ -27,7 +27,7 @@ I then dropped non-beneficial columns, such as character name, movie, release da
 
 The processed dataframe and values were then split into training and testing datasets using the train_test_split function. 
 
-<b>Compile, Train, and Evaluate the Model<b>
+<b>Compile, Train, and Evaluate the Model</b>
 
 A Standard Scaler was created and fitted to the X_training and X_testing datasets, thus transforming them. A Sequential model was then defined along with it's hidden layers, activation types and output layer. I then compiled the model and trained it using the defined model. One hundred epochs were used in the model. The model results were an accuracy of 82.6% with a loss of 46.1%. This accuracy exceeds the target accuracy of 75%. Overall, this model is acceptable.
 
