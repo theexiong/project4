@@ -6,7 +6,7 @@ For this project, we were tasked with creating a machine learning model to eithe
 
 <b>Gathering Data</b>
 
-To gather data, I used the sources listed below to create a csv file that comprised of each character's:
+To gather data, I used the sources listed below, to create a csv file that comprised of each character's:
 1. Name
 2. Age 
 3. Height(cm) 
