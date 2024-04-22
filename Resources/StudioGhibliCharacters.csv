@@ -1,0 +1,185 @@
+character name,age,height(cm),eyeColor,hairColor,specialPowers,country/placeOfResidence,gender,species,movie,releaseDate
+Pazu,13,120,black,brown,0,Laputa,Male,Human,Castle in the Sky,1986
+Lusheeta Toel Ul Laputa,13,120,black,black,1,Laputa,Female,Human,Castle in the Sky,1986
+Dola,60,N/A,black,peach,0,Laputa,Female,Human,Castle in the Sky,1986
+Romka Palo Ul Laputa,33,N/A,black,brown,0,Laputa,Male,Human,Castle in the Sky,1986
+Uncle Pom,N/A,N/A,black,white,0,Laputa,Male,Human,Castle in the Sky,1986
+General Muoro,N/A,N/A,black,bald,0,Laputa,Male,Human,Castle in the Sky,1986
+Duffi,N/A,N/A,dark brown,dark brown,0,Laputa,Male,Human,Castle in the Sky,1986
+Louis,30,N/A,dark brown,dark brown,0,Laputa,Male,Human,Castle in the Sky,1986
+Charles ,N/A,N/A,dark brown,light brown,0,Laputa,Male,Human,Castle in the Sky,1986
+Henri,N/A,N/A,dark brown,reddish brown,0,Laputa,Male,Human,Castle in the Sky,1986
+Motro,N/A,N/A,dark brown,bald,0,Laputa,Male,Human,Castle in the Sky,1986
+Okami,50,N/A,dark brown,orange,0,Laputa,Female,Human,Castle in the Sky,1986
+Colonel Muska,33,N/A,grey,brown,0,Laputa,Male,Human,Castle in the Sky,1986
+Satsuki Kusakabe,11,110,dark brown,dark brown,0,Japan,Female,Human,My Neighbor Totoro,1988
+Mei Kusakabe,4,100,brown,light brown,0,Japan,Female,Human,My Neighbor Totoro,1988
+Tatsuo Kusakabe,37,N/A,brown,light brown,0,Japan,Male,Human,My Neighbor Totoro,1988
+Yasuko Kusakabe,36,N/A,brown,dark brown,0,Japan,Female,Human,My Neighbor Totoro,1988
+Granny,N/A,N/A,black,grey,0,Japan,Female,Human,My Neighbor Totoro,1988
+Kanta Ogaki,11,N/A,brown,brown,0,Japan,Male,Human,My Neighbor Totoro,1988
+Totoro,1302,215,grey,grey,1,Japan,Male,Totoro,My Neighbor Totoro,1988
+Chu Totoro,679,N/A,black,blue,1,Japan,N/A,Totoro,My Neighbor Totoro,1988
+Chibi Totoro,109,N/A,black,white,1,Japan,N/A,Totoro,My Neighbor Totoro,1988
+Catbus,N/A,N/A,yellow,brown,1,Japan,Male,Bakeneko,My Neighbor Totoro,1988
+Kiki,13,130,black,brown,1,Japan,Female,Witch,Kiki's Delivery Service,1989
+Jiji,13,20,black,black,1,Japan,Male,Cat,Kiki's Delivery Service,1989
+Ursula,18,170,black,red ,1,Japan,Female,Witch,Kiki's Delivery Service,1989
+Kopoli (aka Tombo),14,N/A,black,brown,0,Europe,Male,Human,Kiki's Delivery Service,1989
+Osono,30,N/A,brown,red,0,Europe,Female,Human,Kiki's Delivery Service,1989
+Fukuo,N/A,N/A,black,black,0,Europe,Male,Human,Kiki's Delivery Service,1989
+Seita Yokokawa,14,N/A,black,black,0,Japan,Male,Human,Grave of the Fireflies,1988
+Setsuko Yokokawa,4,N/A,black,black,0,Japan,Female,Human,Grave of the Fireflies,1988
+Mrs. Yokokawa,N/A,N/A,black,black,0,Japan,Female,Human,Grave of the Fireflies,1988
+Kiyoshi Yokokawa,40,N/A,black,brown,0,Japan,Male,Human,Grave of the Fireflies,1988
+Seita's Aunt,N/A,N/A,black,black,0,Japan,Female,Human,Grave of the Fireflies,1988
+Taeko Okajima,27,N/A,black,brown,0,Japan,Female,Human,Grave of the Fireflies,1988
+Toshio,N/A,N/A,black,black,0,Japan,Male,Human,Only Yesterday,1991
+Mr. Okajima,N/A,N/A,black,black,0,Japan,Male,Human,Only Yesterday,1991
+Mrs. Okajima,N/A,N/A,black,light brown,0,Japan,Female,Human,Only Yesterday,1991
+Grandmother Okajima,N/A,N/A,black,grey,0,Japan,Female,Human,Only Yesterday,1991
+Nanako Okajima,18,N/A,black,light brown,0,Japan,Female,Human,Only Yesterday,1991
+Yaeko Okajima,16,N/A,black,grey,0,Japan,Female,Human,Only Yesterday,1991
+Tani Tsuneko,10,N/A,black,black,0,Japan,Female,Human,Only Yesterday,1991
+Aiko,10,N/A,black,grey brown,0,Japan,Female,Human,Only Yesterday,1991
+Toko,10,N/A,black,light brown,0,Japan,Female,Human,Only Yesterday,1991
+Rie,10,N/A,black,grey,0,Japan,Female,Human,Only Yesterday,1991
+Porco Rosso,47,N/A,black,brown,0,Italy,Male,Human,Porco Rosso,1992
+Donald Curtis,N/A,N/A,brown,brown,0,Italy,Male,Human,Porco Rosso,1992
+Fio Picccolo,17,160,brown,red,0,Italy,Female,Human,Porco Rosso,1992
+Gina,29,N/A,brown,brown,0,Italy,Female,Human,Porco Rosso,1992
+Mr. Piccolo,N/A,N/A,brown,black,0,Italy,Male,Human,Porco Rosso,1992
+Capo,N/A,N/A,black ,bald,0,Italy,Male,Human,Porco Rosso,1992
+Ferrari,N/A,N/A,black,black,0,Italy,Male,Human,Porco Rosso,1992
+Shoukichi,N/A,N/A,black,brown,1,Japan,Male,Raccoon Dog,Pom Poko,1994
+Okiyo,N/A,N/A,black,brown,1,Japan,Female,Raccoon Dog,Pom Poko,1994
+Seizaemon,N/A,N/A,black,grey,1,Japan,Male,Raccoon Dog,Pom Poko,1994
+Oroku,N/A,N/A,black,grey brown,1,Japan,Female,Raccoon Dog,Pom Poko,1994
+Gonta,N/A,N/A,black,grey,1,Japan,Male,Raccoon Dog,Pom Poko,1994
+Inugami Gyobu,N/A,N/A,black,grey brown,1,Japan,Male,Raccoon Dog,Pom Poko,1994
+Shizuku Tsukishima,14,120,black,light black,0,Japan,Female,Human,Whisper of the Heart,1995
+Baron Humbert von Gikkingen,23,180,green,yellow,1,Japan,Male,Human Cat,Whisper of the Heart,1995
+Seiji Amasawa,14,120,black,black,0,Japan,Male,Human,Whisper of the Heart,1995
+Yuko Harada,14,N/A,black,brown,0,Japan,Female,Human,Whisper of the Heart,1995
+Sugimura,14,N/A,black,brown,0,Japan,Male,Human,Whisper of the Heart,1995
+Seiya Tsukishiima,40,N/A,black,brown,0,Japan,Male,Human,Whisper of the Heart,1995
+Asako Tsukishima,39,N/A,black,brown,0,Japan,Female,Human,Whisper of the Heart,1995
+Shiro Nishi,70,N/A,black,white,0,Japan,Male,Human,Whisper of the Heart,1995
+Shiho Tsukishima,18,N/A,black,brown,0,Japan,Female,Human,Whisper of the Heart,1995
+Ashitaka,17,170,brown,brown,1,Japan,Male,Human,Princess Mononoke,1997
+San,16,150,brown,brown,1,Japan,Female,Human,Princess Mononoke,1997
+Eboshi,N/A,N/A,hazel,black,0,Japan,Female,Human,Princess Mononoke,1997
+Jigo,N/A,N/A,black,brown,0,Japan,Male,Human,Princess Mononoke,1997
+Kohroku,N/A,N/A,black,brown,0,Japan,Male,Human,Princess Mononoke,1997
+Gonza,N/A,N/A,grey,bald,0,Japan,Male,Human,Princess Mononoke,1997
+Hii-sama,50,N/A,brown,white,0,Japan,Female,Human,Princess Mononoke,1997
+Yakul,N/A,N/A,grey ,brown,0,Japan,Male,Red Elk,Princess Mononoke,1997
+Shishigami,400,180,red,light orange,1,Japan,Male,Spirit,Princess Mononoke,1997
+Moro,300,N/A,brown,white,1,Japan,Female,Wolf,Princess Mononoke,1997
+Takashi Yamada,N/A,N/A,black,black,0,Japan,Male,Human,My Neighbors the Yamadas,1999
+Matsuko Yamada,N/A,N/A,black,grey,0,Japan,Female,Human,My Neighbors the Yamadas,1999
+Noboru Yamada,13,N/A,black,black,0,Japan,Male,Human,My Neighbors the Yamadas,1999
+Nonoko Yamada,5,N/A,black,brown,0,Japan,Female,Human,My Neighbors the Yamadas,1999
+Shige Yamano,N/A,N/A,black,white,0,Japan,Female,Human,My Neighbors the Yamadas,1999
+Chihiro,10,120,black,brown,0,Japan,Female,Human,Spirited Away,2001
+Haku,12,180,green,green,1,Japan,Male,Spirit,Spirited Away,2001
+Yubaba,200,150,dark brown,white,1,Japan,Female,Witch,Spirited Away,2001
+Kamaji,40,150,N/A,bald,1,Japan,Male,Spirit,Spirited Away,2001
+No-Face,N/A,180,N/A,N/A,1,Japan,Male,Spirit,Spirited Away,2001
+Rin,23,150,brown,brown,1,Japan,Female,Spirit,Spirited Away,2001
+Boh,1,N/A,black,bald,1,Japan,Male,Giant Baby,Spirited Away,2001
+Zeniba,200,150,dark brown,whtie,1,Japan,Female,Witch,Spirited Away,2001
+Akio Ogino,38,N/A,black,brown,0,Japan,Male,Human,Spirited Away,2001
+Yuko Ogino,35,N/A,dark brown,brown,0,Japan,Female,Human,Spirited Away,2001
+Muta,N/A,40,white,beige,1,Japan,Male,Cat,The Cat Returns,2002
+Cat King,87,N/A,emerald,grey,0,Japan,Male,Cat,The Cat Returns,2002
+Yuki,N/A,N/A,blue,white,0,Japan,Female,Cat,The Cat Returns,2002
+Haru Yoshioka,17,150,brown,brown,1,Japan,Female,Human,The Cat Returns,2002
+Natori ,N/A,N/A,blue,grey,0,Japan,Male,Cat,The Cat Returns,2002
+Toto ,N/A,N/A,black,dark blue,1,Japan,Male,Gargoyle(Bird),The Cat Returns,2002
+Prince Lune,N/A,N/A,dark brown,russian blue,0,Japan,Male,Cat,The Cat Returns,2002
+Hiromi,17,N/A,brown,light brown,0,Japan,Female,Human,The Cat Returns,2002
+Naoko Yoshioka,N/A,N/A,light brown,light brown,0,Japan,Female,Human,The Cat Returns,2002
+Sophie Hatter,18,150,brown,white,0,Europe,Female,Human,Howl's Moving Castle,2004
+Witch of the Waste,59,N/A,brown,brown,1,Europe,Female,Witch,Howl's Moving Castle,2004
+Calcifer,N/A,30,dark brown,orange yellow,1,Europe,Male,Fire Demon,Howl's Moving Castle,2004
+Markl,10,110,dark brown,brown,1,Europe,Male,Human,Howl's Moving Castle,2004
+Prince Justin (aka Turnip Head),25,N/A,grey,blonde,0,Europe,Male,Human/Scarecrow,Howl's Moving Castle,2004
+Madame Suliman,75,N/A,grey,white,0,Europe,Female,Witch,Howl's Moving Castle,2004
+Heen,N/A,120,brown,beige white,1,Europe,Male,Dog,Howl's Moving Castle,2004
+Lettie Hatter,16,130,blue,blonde,0,Europe,Female,Human,Howl's Moving Castle,2004
+Fanny Hatter (aka Honey),N/A,120,grey,blonde,0,Europe,Female,Human,Howl's Moving Castle,2004
+Ged,N/A,N/A,brown,black,0,Europe,Male,Human,Tales from Earthsea,2006
+Arren/Lebannen,17,170,dark brown,dark brown,1,Europe,Male,Human,Tales from Earthsea,2006
+Therru,16,N/A,dark brown,dark brown,1,Europe,Female,Dragon/Human,Tales from Earthsea,2006
+Tenar,N/A,N/A,grey,blonde,0,Europe,Female,Human,Tales from Earthsea,2006
+King of Enlad,N/A,N/A,dark brown,brown,0,Europe,Male,Human,Tales from Earthsea,2006
+Cob,N/A,N/A,violet,purple,1,Europe,Male,Arch-Mage,Tales from Earthsea,2006
+Hare,N/A,N/A,dark brown,brown,0,Europe,Male,Human,Tales from Earthsea,2006
+Hazia Dealer,N/A,N/A,dark brown,brown,0,Europe,Male,Human,Tales from Earthsea,2006
+Sosuke,5,100,brown,brown,0,Japan,Male,Human,Ponyo on the Cliff by the Sea,2008
+Ponyo,5,80,dark brown,red,1,Japan,Female,Fish/Human,Ponyo on the Cliff by the Sea,2008
+Koichi,30,N/A,dark brown,black,0,Japan,Male,Human,Ponyo on the Cliff by the Sea,2008
+Fujimoto,40,170,light green,red,1,Japan,Male,Wizard,Ponyo on the Cliff by the Sea,2008
+Granmammare,600,150,brown,red,1,Japan,Female,Deity,Ponyo on the Cliff by the Sea,2008
+Lisa,25,N/A,dark brown,brown,0,Japan,Female,Human,Ponyo on the Cliff by the Sea,2008
+Toki,72,N/A,dark brown,white,0,Japan,Female,Human,Ponyo on the Cliff by the Sea,2008
+Yoshie,68,N/A,dark brown,blonde,0,Japan,Female,Human,Ponyo on the Cliff by the Sea,2008
+Noriko,70,N/A,dark brown,brown,0,Japan,Female,Human,Ponyo on the Cliff by the Sea,2008
+Koyo,68,N/A,dark brown,brown,0,Japan,Female,Human,Ponyo on the Cliff by the Sea,2008
+Arrietty,14,10,black,auburn,0,Europe,Female,Borrower,The Secret World of Arrietty,2010
+Sho (Shawn),13,8,brown,navy blue,0,Europe,Male,Borrower,The Secret World of Arrietty,2010
+Homily Clock,52,11,brown,navy black,0,Europe,Male,Borrower,The Secret World of Arrietty,2010
+Sadako Maki/Jessica,N/A,N/A,black,grey,0,Europe,Female,Human,The Secret World of Arrietty,2010
+Haru (aka Hara),N/A,N/A,brown,brown,0,Europe,Female,Human,The Secret World of Arrietty,2010
+Spiller,18,9,black,navy black,0,Europe,Male,Borrower,The Secret World of Arrietty,2010
+Pod Clock,52,12,grey,brown,0,Europe,Male,Borrower,The Secret World of Arrietty,2010
+Niya,N/A,N/A,white,beige,0,Europe,Male,Cat,The Secret World of Arrietty,2010
+Umi Matsuzaki,16,N/A,hazel,brown,0,Japan,Female,Human,From Up on Poppy Hill,2011
+Shun Kazama,17,N/A,black,dark brown,0,Japan,Male,Human,From Up on Poppy Hill,2011
+Yuichiro Sawamura,N/A,N/A,brown,brown,0,Japan,Male,Human,From Up on Poppy Hill,2011
+Sora Matsuzaki,13,N/A,black,brown,0,Japan,Female,Human,From Up on Poppy Hill,2011
+Shirou Mizunuma,18,N/A,black,brown,0,Japan,Male,Human,From Up on Poppy Hill,2011
+Ryoko Matsuzaki,N/A,N/A,black,brown,0,Japan,Female,Human,From Up on Poppy Hill,2011
+Riku Matsuzaki,11,N/A,black,brown,0,Japan,Male,Human,From Up on Poppy Hill,2011
+Hana Matsuzaki,N/A,N/A,brown ,dark grey,0,Japan,Female,Human,From Up on Poppy Hill,2011
+Naoko Satomi,N/A,N/A,black,navy blue,0,Japan,Female,Human,The Wind Rises,2013
+Jiro Horikoshi,42,N/A,black,brown,0,Japan,Male,Human,The Wind Rises,2013
+Castorp,N/A,N/A,light brown,brown,0,Germany,Male,Human,The Wind Rises,2013
+Kiro Honjo,N/A,N/A,black,brown,0,Japan,Male,Human,The Wind Rises,2013
+Kayo Horikoshi,10,N/A,dark brown,brown,0,Japan,Female,Human,The Wind Rises,2013
+Caproni,45,N/A,black,brown,0,Italy,Male,Human,The Wind Rises,2013
+Mr. Kurokawa,N/A,N/A,black,navy blue,0,Japan,Male,Human,The Wind Rises,2013
+Hattori,N/A,N/A,black,grey,0,Japan,Male,Human,The Wind Rises,2013
+Kaguya,N/A,150,black,navy blue,1,Japan,Female,Moon Princess,The Tale of Princess Kaguya,2013
+Sutemaru,N/A,N/A,black,black,0,Japan,Male,Human,The Tale of Princess Kaguya,2013
+Ishitsukuri,N/A,N/A,black,black,0,Japan,Male,Human,The Tale of Princess Kaguya,2013
+Miyatsuko,N/A,N/A,grey,white,0,Japan,Male,Human,The Tale of Princess Kaguya,2013
+Menowarwa,17,N/A,black,navy blue,0,Japan,Female,Human,The Tale of Princess Kaguya,2013
+Lady Sagami,N/A,N/A,black,black,0,Japan,Female,Human,The Tale of Princess Kaguya,2013
+Inbe no Akita,N/A,N/A,black,white,0,Japan,Male,Human,The Tale of Princess Kaguya,2013
+Okkoto,500,200,green grey,grey,1,Japan,Male,Boar God,The Tale of Princess Kaguya,2013
+Ona,N/A,N/A,black ,grey,0,Japan,Female,Human,The Tale of Princess Kaguya,2013
+Marnie,12,150,green,blonde,0,Europe,Female,Human,When Marnie Was There,2014
+Anna Sasaki,12,140,blue,brown,0,Europe,Female,Human,When Marnie Was There,2014
+Emily,20,N/A,dark brown,brown,0,Europe,Female,Human,When Marnie Was There,2014
+Kazuhiko,16,N/A,dark brown,brown,0,Japan,Male,Human,When Marnie Was There,2014
+Setsu Oiwa,55,N/A,dark brown,brown,0,Japan,Male,Human,When Marnie Was There,2014
+Hisako,N/A,N/A,dark brown,grey,0,Japan,Female,Human,When Marnie Was There,2014
+Yoriko Sasaki,N/A,N/A,dark brown,brown,0,Japan,Female,Human,When Marnie Was There,2014
+Sayaka,11,N/A,teal,brown,0,Japan,Female,Human,When Marnie Was There,2014
+Kiyomasa Oiwa,55,N/A,dark brown,brown,0,Japan,Male,Human,When Marnie Was There,2014
+Doctor Yamashita,N/A,N/A,black,navy blue,0,Japan,Male,Human,When Marnie Was There,2014
+Nausicaa,16,150,brown,auburn,1,Middle East,Female,New Human,Nausicaa of the Valley of the Wind,1984
+Mito,N/A,N/A,brown,brown,0,Middle East,Male,New Human,Nausicaa of the Valley of the Wind,1984
+Lord Yupa,N/A,N/A,brown,grey,0,Middle East,Male,New Human,Nausicaa of the Valley of the Wind,1984
+Teto,N/A,N/A,green,brown striped,0,Middle East,Male,Fox Squirrel,Nausicaa of the Valley of the Wind,1984
+Gol,N/A,N/A,brown,grey,0,Middle East,Male,New Human,Nausicaa of the Valley of the Wind,1984
+Jhil,50,N/A,brown,grey,0,Middle East,Male,New Human,Nausicaa of the Valley of the Wind,1984
+Obaba,N/A,N/A,N/A,brown,0,Middle East,Female,New Human,Nausicaa of the Valley of the Wind,1984
+Mayor of Pejite,N/A,N/A,brown,brown,0,Middle East,Male,New Human,Nausicaa of the Valley of the Wind,1984
+Asbel (aka Milo),16,N/A,brown,brown,0,Middle East,Male,New Human,Nausicaa of the Valley of the Wind,1984
+Princess Lastelle,16,N/A,brown,auburn,0,Middle East,Female,New Human,Nausicaa of the Valley of the Wind,1984
+Lastelle's Mother,N/A,N/A,brown,brown,0,Middle East,Female,New Human,Nausicaa of the Valley of the Wind,1984
+Kushana,25,N/A,blue,ginger,0,Middle East,Female,New Human,Nausicaa of the Valley of the Wind,1984
+Kurotowa,N/A,N/A,brown,brown,0,Middle East,Male,New Human,Nausicaa of the Valley of the Wind,1984
