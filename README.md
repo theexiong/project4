@@ -32,7 +32,7 @@ The processed dataframe values were then split into training and testing dataset
 A Standard Scaler was created and fitted to the X_training and X_testing datasets, thus transforming them. A Sequential model was then defined along with it's hidden layers, activation types and output layer. I then compiled the model and trained it using the defined model. Fifty epochs were used in the model. The model results were an accuracy of 89.1%. This accuracy exceeds the target accuracy of 75%. Overall, this model is acceptable.
 
 <b>Model 2</b></br>
-I also created a second notebook using the same model on the dataset. But for the second model, I dropped all characters with any NaN values. This model's accuracy result was 78.2%. This also exceeds the target accuracy of 75%, therefore acknowledges that this model works and is acceptable.
+I also created a second notebook using the same model on the dataset. But for the second model, I dropped all characters with any NaN values. This model's accuracy result was 78.2%. This also exceeds the target accuracy of 75%, therefore acknowledging that this model works and is acceptable.
 
 
 
