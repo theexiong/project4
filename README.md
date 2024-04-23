@@ -37,7 +37,8 @@ I also created a second notebook using the same model on the dataset. But for th
 </br>
 Tableau was used to create fun interactive dashboatds for the Studio Ghibli dataset.
 </br>Link to tableau: https://public.tableau.com/app/profile/thee.xiong/viz/StudioGhibli_17133854233040/MFNumofCharacters#2
-
+</br>
+</br>
 sources:</br>
 https://github.com/Laboratoria/CDMX011-data-lovers/blob/master/src/data/ghibli/ghibli.json</br>
 https://disney.fandom.com/wiki/Category:Studio_Ghibli_films</br>
