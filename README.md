@@ -34,7 +34,9 @@ A Standard Scaler was created and fitted to the X_training and X_testing dataset
 <b>Model 2</b></br>
 I also created a second notebook using the same model on the dataset. But for the second model, I dropped all characters with any NaN values. This model's accuracy result was 78.2%. This also exceeds the target accuracy of 75%, therefore acknowledges that this model works and is acceptable.
 
-
+</br>
+Tableau was used to create fun interactive dashboatds for the Studio Ghibli dataset.
+</br>Link to tableau: https://public.tableau.com/app/profile/thee.xiong/viz/StudioGhibli_17133854233040/MFNumofCharacters#2
 
 sources:</br>
 https://github.com/Laboratoria/CDMX011-data-lovers/blob/master/src/data/ghibli/ghibli.json</br>
